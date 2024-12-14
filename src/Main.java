@@ -21,7 +21,7 @@ public class Main {
         area3 = area3 / 2;
 
         System.out.println("The area of the triangle is " + area);
-        System.out.println("Area of Triangle 2: " + area2);
+        System.out.println("The Area of Triangle 2: " + area2);
         System.out.println("Area of Triangle 3: " + area3);
     }
 }
